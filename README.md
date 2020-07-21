@@ -4,6 +4,7 @@
 
 ### current Link - http://lonestarrelays.com/
 
+Skill Python, Django, Paypal, GoogleMap, Mail
 In this tutorial, you will learn how to use HTML Template in Django. You will learn how to change your template path from settings. Here, you’ll also learn how to use static and media content in your template and how to integrate it. You will also learn how to organize your templates and optimally use them without repeating your code.
 
 ### Setup
