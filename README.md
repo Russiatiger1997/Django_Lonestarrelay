@@ -1,8 +1,8 @@
-# How to Integrate Bootstrap 4 Template in Django
+# Texas indepandency relay site
 
-### Tutorial Link - https://studygyaan.com/django/how-to-integrate-bootstrap-4-template-in-django
+### previous Link - http://texasindependencerelay.com/
 
-### Template used for this project - https://github.com/studygyaan/Bootstrap-Blog-Template
+### current Link - http://lonestarrelays.com/
 
 In this tutorial, you will learn how to use HTML Template in Django. You will learn how to change your template path from settings. Here, you’ll also learn how to use static and media content in your template and how to integrate it. You will also learn how to organize your templates and optimally use them without repeating your code.
 
