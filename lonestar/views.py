@@ -39,7 +39,7 @@ from .utils import tir
 today = datetime.now().replace(tzinfo=pytz.UTC).date()   # tz aware datetime object
 
 defaultpwd = make_password('texas')
-paypal_access_token = "access_token$sandbox$qvg7sgbzzv4f9247$6d9b03c2be931225a6022ed9096711db"
+paypal_access_token = "access_token$sandbox$1234567890"
 
 
 
